@@ -81,6 +81,7 @@
 .contact-body{
     background-color: #F7F7F7;
     padding: 25px;
+    border-radius: 50px;
 }
 .contact-title{
     text-align: center;
@@ -95,4 +96,15 @@
     text-align: justify;
     font-weight: 500;
     font-size: large;
+}
+.link-contact{
+    text-decoration: none;
+    color: black;
+
+}
+.icon-contact{
+    color: #2D4F53;
+}
+.colum-contact{
+    margin-bottom: 15px;
 }
